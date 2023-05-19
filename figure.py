@@ -1,7 +1,8 @@
-#figure module은 line class를 참조 선의 길이를 설정하고
-#area_square, area_regular_triangle, area_circle 함수를 이용하여
-#각각 정사각형, 정삼각형, 원의 넓이를 반환합니다.
-
+"""
+figure module은 line class를 참조 선의 길이를 설정하고
+area_square, area_regular_triangle, area_circle 함수를 이용하여
+각각 정사각형, 정삼각형, 원의 넓이를 반환합니다.
+"""
 import math
 
 
